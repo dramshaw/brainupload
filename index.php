@@ -57,7 +57,8 @@
       <div class="container">
         <h1>Hello, world!</h1>
         <p>This is a template for a simple informational website. It is created based on <a href="https://html5boilerplate.com/">HTML5Boilerplate</a>. Use it as a starting point to create something more unique.</p>
-        <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
+        <p><a class="btn btn-primary btn-lg" href="https://k2.obaverse.net/hlc/brain-upload.php" role="button">Brain Upload Tool</a></p>
+        <p><a href="https://github.com/dramshaw/brainupload">source code on GitHub</a></p>
       </div>
     </div>
 
